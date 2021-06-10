@@ -1,5 +1,7 @@
 # artshow
-help
+
+##A simple card game; "SPIT"
+
 
 ha ha version 0.0 
 nothing - help me how do i do this :_:
