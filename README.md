@@ -1,6 +1,6 @@
 # artshow
 
-## A simple card game; "SPIT"
+## A simple card game; Spit or Blackjack?
 
 
 ha ha version 0.0 
