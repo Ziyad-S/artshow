@@ -17,7 +17,7 @@
   * WHAT DOES THIS MEAN
   * createElement
   * querySelector
-- 
+- .slice
 
 #### **css notes n stuff**
 - justify content
