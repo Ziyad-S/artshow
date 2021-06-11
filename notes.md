@@ -17,7 +17,9 @@
   * WHAT DOES THIS MEAN
   * createElement
   * querySelector
+     * query has sometihng to do with the index.html page or soemthing
 - .slice
+- appendChild
 
 #### **css notes n stuff**
 - justify content
