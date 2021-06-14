@@ -16,3 +16,7 @@ tried checking code to see if the deck of cards would load
 https://editor.p5js.org/ziqba3/sketches/nufFiMunU
 checked;
 https://editor.p5js.org/ziqba3/sketches/xoQE6MtFJ
+
+V1.2
+Added CSS that'll display the cards, but I need to fix the error "Uncaught TypeError: Cannot read property 'length' of undefined (sketch: line 10)" or else the program cant make the deck? idk why it does this; get help :_:
+https://editor.p5js.org/ziqba3/sketches/xoQE6MtFJ
