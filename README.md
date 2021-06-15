@@ -27,3 +27,7 @@ Uncaught TypeError: Cannot read property 'length' of undefined (sketch: line 12)
 Uncaught TypeError: Cannot read property 'pop' of undefined (sketch: line 140)
 Uncaught TypeError: Cannot set property 'innerHTML' of null (sketch: line 130)
 https://editor.p5js.org/ziqba3/sketches/4USvHaChv
+
+V1.4 
+Got the deck to count n stuff
+https://editor.p5js.org/ziqba3/sketches/Gtv_d-CvJ
