@@ -35,3 +35,6 @@ V1.4
 V1.5
 - Replaced all the variables; few errors with HTML remain (i hope)
 - https://editor.p5js.org/ziqba3/sketches/_LL2XhvXU
+
+V1.6
+- https://editor.p5js.org/ziqba3/sketches/lnUSggiIS
