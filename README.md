@@ -47,3 +47,7 @@ V1.8
 - Started implementing a score counter for turns but it doesn't 100% work yet
 - Add slides tmmr
 - https://editor.p5js.org/ziqba3/sketches/JFCyR7Dop
+
+V1.9
+- Finished the game
+- https://editor.p5js.org/ziqba3/sketches/5Rge37y1M
