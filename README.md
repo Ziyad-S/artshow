@@ -42,3 +42,8 @@ V1.6
 V1.7
 - https://editor.p5js.org/ziqba3/sketches/JFCyR7Dop
 
+V1.8
+- Got the program to work by looking back at the OG code and fixing bugs properly
+- Started implementing a score counter for turns but it doesn't 100% work yet
+- Add slides tmmr
+- https://editor.p5js.org/ziqba3/sketches/JFCyR7Dop
