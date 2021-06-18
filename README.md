@@ -1,5 +1,8 @@
 # artshow
-- https://ziyad-s.github.io/artshow/
+- https://ziyad-s.github.io/artshow/|
+- Shortened URL;
+- https://bit.ly/3vCWv5x
+
 
 ## A simple card game; War!!
 
